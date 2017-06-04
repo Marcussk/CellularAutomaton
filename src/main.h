@@ -8,7 +8,7 @@
 #include <iomanip> 
 #include <vector>
 #include <algorithm>
-#include "lib/pugixml.hpp"
+#include "../lib/pugixml.hpp"
 #include <string>
 
 #include "cell.h"

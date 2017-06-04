@@ -5,7 +5,7 @@
 //#include <vector>
 #include "cell.h"
 #include "debug.h"
-#include "lib/EasyBMP.h"
+#include "../lib/EasyBMP.h"
 
 class State
 {
