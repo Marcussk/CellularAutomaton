@@ -1,2 +1,2 @@
 # CellularAutomaton
-Modelling and Simulation project - Cellular Automaton
+Modelling and Simulation project - Application of Cellular Automata in Biology
