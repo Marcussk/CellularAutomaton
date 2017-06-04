@@ -1,0 +1,24 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Configuration>
+
+    <duration> 15 </duration>
+    <dimension> 100 </dimension>
+
+    <moss_initial> 10 </moss_initial>
+    <lichen_initial> 0 </lichen_initial>
+    <lichen_creation_delay> 4 </lichen_creation_delay>
+
+    <moss_dispersal> 0.0 </moss_dispersal>
+    <lichen_dispersal> 0.0 </lichen_dispersal>
+    <min_vacanttime> 2 </min_vacanttime>
+    <max_area> 100 </max_area>
+
+    <min_weight> 5 </min_weight>
+    <max_weight> 10 </max_weight>
+    <slump_constant> 0.0 </slump_constant>
+
+    <slump_slip> 1.0 </slump_slip> 
+    <distance> 1 </distance>
+    <lichen_growth_rate> 1 </lichen_growth_rate>
+    <growth_constant> 2 </growth_constant>
+</Configuration>
